@@ -7,6 +7,8 @@ import cookieParser from "cookie-parser";
 import jwt from "jsonwebtoken";
 import bcrypt from "bcrypt";
 
+// this is my authenticated branch
+
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 const users = [];
